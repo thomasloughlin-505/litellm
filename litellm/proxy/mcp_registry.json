@@ -17,7 +17,7 @@
       "name": "gitlab",
       "title": "GitLab",
       "description": "Official GitLab MCP Server for project and repository management",
-      "icon_url": "https://cdn.simpleicons.org/gitlab",
+      "icon_url": "/ui/assets/logos/gitlab.svg",
       "category": "Developer Tools",
       "registry_url": "https://registry.modelcontextprotocol.io/servers/com.gitlab%2Fmcp",
       "transport": "http",
